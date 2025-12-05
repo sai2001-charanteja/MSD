@@ -9,7 +9,7 @@ SRC = cachesim.c
 OUT = cachesim
 
 # Default trace + mode (so "make run" works immediately)
-TRACE = tracfile.txt
+TRACE = tracefile.txt
 MODE  = 0
 
 # Build the executable
